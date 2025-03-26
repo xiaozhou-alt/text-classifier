@@ -29,9 +29,11 @@ ps：强烈建议使用GPU运行训练代码！本人本地电脑配置较为垃
 
 **部分结果展示**：
 
-![image-20250326201244231](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20250326201244231.png)
+![image](https://github.com/user-attachments/assets/07994f91-f5ff-4455-81fd-2e2471485319)
 
-![image-20250326201257655](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20250326201257655.png)
+
+![image](https://github.com/user-attachments/assets/3f2302b3-5a52-4b1e-a240-d62d49113eb7)
+
 
 
 
