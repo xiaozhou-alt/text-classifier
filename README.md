@@ -1,8 +1,6 @@
-**基于BERT模型对新闻文本分类**
-
 **项目说明**：
 
-本次实验主要基于 **THUCNews** 中文文本分类数据集，包含83万新闻数据，采用了 **wobert** 以词为单位的中文 **BERT** 模型进行文本分类任务。
+本次实验主要基于***\*THUCNews\****中文文本分类数据集，包含83万新闻数据，采用了***\*wobert\****以词为单位的中文BERT模型进行文本分类任务。
 
 **数据类型**：
 
@@ -29,13 +27,15 @@ ps：强烈建议使用GPU运行训练代码！本人本地电脑配置较为垃
 
 **部分结果展示**：
 
-![image](https://github.com/user-attachments/assets/07994f91-f5ff-4455-81fd-2e2471485319)
+![image-20250326201244231](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20250326201244231.png)
 
+![image-20250326201257655](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20250326201257655.png)
 
-![image](https://github.com/user-attachments/assets/3f2302b3-5a52-4b1e-a240-d62d49113eb7)
+更多数据集和代码信息可关注我的CSDN博客文章：
 
+[文本分类：基于BERT模型处理新闻分类_bert-CSDN博客](https://blog.csdn.net/soejjdiwjssundo/article/details/146542047?spm=1001.2014.3001.5501)
 
+模型文件已上传至 Kaggle 平台
 
-
-
+Kaggle：https://www.kaggle.com/models/rexinshiminxiaozhou/bert_text-classifier/
 
