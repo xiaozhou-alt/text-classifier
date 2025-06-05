@@ -1,0 +1,6 @@
+{
+    "bert_path": "./model/bert-base-chinese",
+    "data_dir": "./data",
+    "model_dir": "./saved_models",
+    "max_len": 128
+}
