@@ -27,9 +27,9 @@ ps：强烈建议使用GPU运行训练代码！本人本地电脑配置较为垃
 
 **部分结果展示**：
 
-![image-20250326201244231](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20250326201244231.png)
+![image-20250326201244231](1.png)
 
-![image-20250326201257655](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20250326201257655.png)
+![image-20250326201257655](2.png)
 
 更多数据集和代码信息可关注我的CSDN博客文章：
 
