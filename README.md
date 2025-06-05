@@ -27,9 +27,13 @@ ps：强烈建议使用GPU运行训练代码！本人本地电脑配置较为垃
 
 **部分结果展示**：
 
-![image-20250326201244231](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20250326201244231.png)
+![image-20250326201244231](./pic/loss.png)
 
-![image-20250326201257655](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20250326201257655.png)
+![image-20250326201257655](./pic/predict.png)
+
+![image-20250326201257655](./pic/pre.png)
+
+![image-20250326201257655](./pic/confusion.png)
 
 更多数据集和代码信息可关注我的CSDN博客文章：
 
