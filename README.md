@@ -9,6 +9,29 @@
 　　中国足球彩票半全场第08084期开奖揭晓：一等奖无人中，233784.32元滚存。本期半全场全国总销量：365288元。   [正文]
 ```
 
+**项目文件夹格式**：
+
+```bash
+text-classifier/
+├── config.json          # 主配置
+├── main.ipynb           # 主文件
+├── data/
+    └── label2id.json    # 标签映射
+├── model/
+    └── bert-base-chinese/  # 官方BERT模型
+        ├── config.json
+        ├── pytorch_model.bin
+        ├── tokenizer_config.json
+        └── vocab.txt
+    |—— best_model.pth   # 最佳的模型文件
+└── saved_models/        # 训练好的分类模型
+    ├── config.json      # 微调后的模型配置
+    ├── model.safetensors
+    ├── special_tokens_map.json
+    ├── tokenizer_config.json
+    └── pytorch_model.bin
+```
+
 **步骤说明**：
 
 ```
@@ -27,13 +50,9 @@ ps：强烈建议使用GPU运行训练代码！本人本地电脑配置较为垃
 
 **部分结果展示**：
 
-![image-20250326201244231](./pic/loss.png)
+![image-20250326201244231](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20250326201244231.png)
 
-![image-20250326201257655](./pic/predict.png)
-
-![image-20250326201257655](./pic/pre.png)
-
-![image-20250326201257655](./pic/confusion.png)
+![image-20250326201257655](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20250326201257655.png)
 
 更多数据集和代码信息可关注我的CSDN博客文章：
 
